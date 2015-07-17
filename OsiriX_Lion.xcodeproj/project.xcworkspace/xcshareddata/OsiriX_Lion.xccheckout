@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>157FB3B4-3896-4CA5-A24E-B59F12F18FE2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OsiriX_Lion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1456A07E65DFBD0D4DE6B4F2ADE9F93D45977313</key>
+		<string>https://github.com/muschellij2/osirix.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OsiriX_Lion.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1456A07E65DFBD0D4DE6B4F2ADE9F93D45977313</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/muschellij2/osirix.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1456A07E65DFBD0D4DE6B4F2ADE9F93D45977313</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1456A07E65DFBD0D4DE6B4F2ADE9F93D45977313</string>
+			<key>IDESourceControlWCCName</key>
+			<string>osirix</string>
+		</dict>
+	</array>
+</dict>
+</plist>

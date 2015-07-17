@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/HornRegistration.mm \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/HornRegistration.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkLandmarkTransform.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkLinearTransform.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkHomogeneousTransform.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkAbstractTransform.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkObject.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkObjectBase.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkIndent.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkSystemIncludes.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkWin32Header.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkConfigure.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkABI.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkIOStream.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkType.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkOStreamWrapper.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkOStrStreamWrapper.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkSetGet.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkTimeStamp.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkWeakPointerBase.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkPoints.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkDataArray.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkAbstractArray.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkVariant.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkStdString.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkUnicodeString.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkVariantInlineOperators.h \
+  /Users/johnmuschelli/Dropbox/osirix/VTKHeaders/vtkMatrix4x4.h

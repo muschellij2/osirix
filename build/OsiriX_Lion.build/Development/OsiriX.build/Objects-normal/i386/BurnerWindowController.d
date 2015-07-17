@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/BurnerWindowController.m \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/AppController.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/Growl.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlDefines.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlApplicationBridge.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/Web/XMLRPCMethods.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2XMLRPCConnection.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2Connection.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/GUI/WaitRendering.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/BurnerWindowController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/GUI/MutableArrayCategory.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/BrowserController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/BrowserController+Sources.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomStudy.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomImage.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomStudy+Report.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/Anonymization.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/AnonymizationPanelController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/AnonymizationViewController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/GUI/ThreadsManager.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/NSThread+N2.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/NSFileManager+N2.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2DirectoryEnumerator.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2Debug.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/NSImage+N2.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomDir.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomDatabase.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2ManagedDatabase.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomDatabase+Routing.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomDatabase+Clean.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomFile.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomFileDCMTKCategory.h \
+  /Users/johnmuschelli/Dropbox/osirix/DCM\ Framework/DCMUIDs.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomDatabase+DCMTK.h

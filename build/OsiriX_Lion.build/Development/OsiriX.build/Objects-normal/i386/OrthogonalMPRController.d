@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OrthogonalMPRController.m \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OrthogonalMPRController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/ViewerController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/ROI/ROI.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/MyPoint.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OrthogonalReslice.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/DCMPix.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/DCMView.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N3Geometry.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OrthogonalMPRViewer.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OrthogonalMPRView.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/Window3DController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/ColorTransferView.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/3D/OpacityTransferView.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/NSFullScreenWindow.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/KBPopUpToolbarItem.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/GUI/Notifications.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/AppController.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/Growl.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlDefines.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlApplicationBridge.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/Web/XMLRPCMethods.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2XMLRPCConnection.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2Connection.h

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/O2ViewerThumbnailsMatrix.mm \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/O2ViewerThumbnailsMatrix.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomStudy.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/browserController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/BrowserController+Sources.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/DicomSeries.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/ViewerController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/ROI/ROI.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/MyPoint.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/OSI/OSIWindowController.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/DICOMFiles/AppController.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/Growl.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlDefines.h \
+  /Users/johnmuschelli/Dropbox/osirix/Binaries/Growl.framework/Headers/GrowlApplicationBridge.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/Web/XMLRPCMethods.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2XMLRPCConnection.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2Connection.h \
+  /Users/johnmuschelli/Dropbox/osirix/OsiriXClasses/2D/ThumbnailsListPanel.h \
+  /Users/johnmuschelli/Dropbox/osirix/nitrogen/Sources/N2Debug.h
